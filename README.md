@@ -4,7 +4,7 @@
 
 Analista de Sistama em 🚩Assembleia Legislativa de Roraima, Boa Vista-RR.
 
-<p align="left">
+<p>
   <a href="mailto:helitonns@gmail.com">
     <img
       alt="helitonns@gmail.com" 
@@ -74,6 +74,8 @@ Analista de Sistama em 🚩Assembleia Legislativa de Roraima, Boa Vista-RR.
     title="Java" 
     src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" 
 />
+<br/>
+<br/>
 <img 
     align="left" 
     alt="Spring"
