@@ -37,125 +37,77 @@ Analista de Sistama em 🚩Assembleia Legislativa de Roraima, Boa Vista-RR.
    <img
       alt="@helitonns" 
       title="@helitonns"
-      src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" 
+      src="https://img.shields.io/badge/GitHub-ffffff?style=flat&logo=github&logoColor=black" 
    />      
   </a>
 </p>
 
 ---
-
 ### 🤖 Linguagens e Tecnologias
-
 <img 
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" 
 />
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    alt="CSS"
+    title="CSS" 
+    src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" 
 />
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    alt="JavaScript"
+    title="JavaScript" 
+    src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" 
 />
 <img 
     align="left" 
     alt="TypeScript"
     title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+    src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" 
+/>
+<img 
+    align="left" 
+    alt="Java"
+    title="Java" 
+    src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" 
+/>
+<img 
+    align="left" 
+    alt="Spring"
+    title="Spring" 
+    src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" 
+/>
+<img 
+    align="left" 
+    alt="Markdown"
+    title="Markdown" 
+    src="https://img.shields.io/badge/Markdown-ffffff?style=flat&logo=markdown&logoColor=black" 
 />
 <img 
     align="left" 
     alt="React"
     title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" 
 />
 <img 
     align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+    alt="Tailwind CSS"
+    title="Tailwind CSS" 
+    src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white" 
 />
 <img 
     align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+    alt="PostgreSQL"
+    title="PostgreSQL" 
+    src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" 
 />
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
-<img
-  align="left" 
-  alt="Java" 
-  title="Java"
-  width="30px" 
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-/>
-<img
-  align="left" 
-  alt="Spring" 
-  title="Spring"
-  width="30px" 
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
-/>
-<img
-  align="left" 
-  alt="Maven" 
-  title="Maven"
-  width="30px" 
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg"
-/>
-<img
-  align="left" 
-  alt="PostgreSQL" 
-  title="PostgreSQL"
-  width="30px" 
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
-/>
-
-          
 
 <br/>
-<br/>
+
+---
 
 ### 📊 Estatísticas
 
