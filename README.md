@@ -43,7 +43,8 @@
    />      
   </a>
   
----
+<br/>
+<br/>
 
 ### 🤖 Linguagens e Tecnologias
 
