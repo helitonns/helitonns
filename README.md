@@ -4,7 +4,7 @@
 
 Analista de Sistama em 🚩Assembleia Legislativa de Roraima, Boa Vista-RR.
 
----
+<br/>
 
 ### 📞 Contanto
   <a href="mailto:helitonns@gmail.com" >
@@ -43,7 +43,8 @@ Analista de Sistama em 🚩Assembleia Legislativa de Roraima, Boa Vista-RR.
    />      
   </a>
   
-<hr style="height: 1px;"/>
+<br/>
+<br/>
 
 ### 🤖 Linguagens e Tecnologias
 <img 
