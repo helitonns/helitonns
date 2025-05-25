@@ -40,9 +40,9 @@ Analista de Sistama em 🚩Assembleia Legislativa de Roraima, Boa Vista-RR.
       src="https://img.shields.io/badge/GitHub-ffffff?style=flat&logo=github&logoColor=black" 
    />      
   </a>
+  
+<hr/>
 
-
----
 ### 🤖 Linguagens e Tecnologias
 <img 
     align="left" 
