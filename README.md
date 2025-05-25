@@ -3,7 +3,9 @@
 **`Desenvolvedor FullStack`**
 
 Analista de Sistama em 🚩Assembleia Legislativa de Roraima, Boa Vista-RR.
-<br/>
+
+---
+
 ### 📞 Contanto
   <a href="mailto:helitonns@gmail.com" >
     <img
@@ -41,7 +43,7 @@ Analista de Sistama em 🚩Assembleia Legislativa de Roraima, Boa Vista-RR.
    />      
   </a>
   
-<hr/>
+<hr style="height: 1px;"/>
 
 ### 🤖 Linguagens e Tecnologias
 <img 
@@ -106,4 +108,6 @@ Analista de Sistama em 🚩Assembleia Legislativa de Roraima, Boa Vista-RR.
     title="PostgreSQL" 
     src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" 
 />
+
+
 
