@@ -2,7 +2,7 @@
 
 ```
 
-Analista de Sistama - Desenvolvedor FullStack em 🚩Assembleia Legislativa de Roraima, Boa Vista-RR.
+🚩 Analista de Sistama - Desenvolvedor FullStack - em Assembleia Legislativa de Roraima - Boa Vista-RR.
 
 ```
 
