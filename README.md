@@ -6,7 +6,7 @@
 
 ```
 
-### 📞 Contanto
+### 📞 Contato
   <a href="mailto:helitonns@gmail.com" >
     <img
       alt="helitonns@gmail.com" 
